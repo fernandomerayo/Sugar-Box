@@ -69,6 +69,9 @@ params:
     URL: "#"
 menu:
   main:
+  - name: Productos
+    URL: productos
+    weight: "4"
   - name: About
     URL: about
     weight: "2"
