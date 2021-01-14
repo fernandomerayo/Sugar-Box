@@ -40,18 +40,17 @@ params:
     - link: plugins/search/mark.js
     - link: plugins/search/search.js
   logo: images/logo.png
-  home: Home
+  home: Inicio
   layout: "1"
   description: This is meta description
   preloader: true
   search: true
-  author: Themefisher
+  author: Sugar Box
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
-  mobile: "+90 000 333 22"
-  email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
+  bio: ''
+  mobile: "+506 2200 0000"
+  email: sugarboxcr@hotmail.com
+  address: San José, Costa Rica
   contact_form_action: "#"
   google_analitycs_id: Your ID
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
